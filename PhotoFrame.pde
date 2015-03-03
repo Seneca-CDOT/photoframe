@@ -4,6 +4,6 @@ void setup(){
   album=new Organizer();
 }
 void draw(){
-  background(255,255,255);
+  background(0,0,0);
   album.draw();
 }
